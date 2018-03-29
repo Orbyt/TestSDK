@@ -7,6 +7,6 @@ package com.neustar.testsdk;
 public class TestSDKThing {
 
     public void letsGo() {
-       
+
     }
 }
